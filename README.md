@@ -1,7 +1,6 @@
 # 🚲 NYC Bikeshare Analysis
 
-**Team:** Shane, Jesse, Maribela, Yining  
-**Contributor:** _Your Name Here_ (Refactor & Polish)
+Shane Fitzpatrick 
 
 ## 📌 Overview
 This project explores NYC Bikeshare data (2015–2017) to help the Department of Transportation understand trends in usage, rider behavior, and station demand. It includes data cleaning, visual exploration, regression analysis, and geospatial calculations.

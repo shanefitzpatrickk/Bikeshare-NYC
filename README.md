@@ -1,6 +1,6 @@
 #  Analyzing Bikeshare Trends and Usage Patterns (2015–2017)
 
-This data science project explores the trends and usage patterns of New York City's Citi Bike system from 2015 to 2017. This analysis provides insights into urban mobility and the evolving role of bikeshare systems in city transportation as they grow in popularity.
+This data science project explores the trends and usage patterns of New York City's Citi Bike system from 2015 to 2017. The analysis provides insights into urban mobility and the evolving role of bikeshare systems in city transportation as they grow in popularity.
 
 ## Motivation & Objectives
 

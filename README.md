@@ -12,3 +12,8 @@ Urban mobility is rapidly evolving, and bikeshare systems like Citi Bike play a 
 - Identify peak usage times and popular routes.
 - Explore the impact of external factors on bikeshare patterns.
 - Present clear, visual insights that can inform urban planning and transportation strategies.
+
+--
+**Dataset Details**
+This data comes from user Nikhil Akki on Kaggle, who transformed a regular open data release from the NYC Citi Bike's website.
+It can be found [here.](https://www.kaggle.com/datasets/akkithetechie/new-york-city-bike-share-dataset/data?select=NYC-BikeShare-2015-2017-combined.csv)
